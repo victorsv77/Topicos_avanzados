@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+}
+
+/* ENCABEZADO */
+header{
+    background: #1e3a8a;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+/* CONTENIDO */
+main{
+    padding: 15px;
+}
+
+/* TARJETAS */
+.card{
+    background: white;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 5px rgba(0,0,0,0.2);
+}
+
+/* BOTONES */
+.btn{
+    display: block;
+    text-decoration: none;
+    background: #27ae60;
+    color: white;
+    text-align: center;
+    padding: 12px;
+    border-radius: 8px;
+    margin-top: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.regresar{
+    background: #e74c3c;
+}
+
+/* FORMULARIOS */
+input{
+    width: 100%;
+    padding: 12px;
+    margin-top: 10px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+/* RESPONSIVE */
+@media(max-width: 600px){
+
+    body{
+        font-size: 16px;
+    }
+
+    .card{
+        padding: 12px;
+    }
+
+    .btn{
+        padding: 14px;
+    }
+
+}

@@ -1,0 +1,8 @@
+05:54:17 - Tarea 1 lee saldo: 
+05:54:19 - Tarea 1 escribe saldo: -300
+05:54:21 - Tarea 2 lee saldo: -300
+05:54:23 - Tarea 2 escribe saldo: -800
+05:54:32 - Tarea 1 (LOCK REAL) lee saldo: -800
+05:54:34 - Tarea 1 (LOCK REAL) escribe saldo: -1100
+05:54:39 - Tarea 2 (LOCK REAL) lee saldo: -1100
+05:54:41 - Tarea 2 (LOCK REAL) escribe saldo: -1600
